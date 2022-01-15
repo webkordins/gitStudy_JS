@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "../../../../run/media/vadim/Архивные копии/lesson_05/my_folder"
+    },
+    {
+      "path": "../study_Git"
+    },
+    {
+      "path": "../home_lessons"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "home_lessons"
+  }
+}
